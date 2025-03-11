@@ -11,8 +11,8 @@
 
 ## Stats..
 
-![Furkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![Furkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FurkanKzltprk&show_icons=true&theme=dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanKzltprk&layout=compact&theme=dark)
 
 
