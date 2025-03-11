@@ -5,13 +5,12 @@
 - 🛠️ Passionate about **C#**, **Java**, and **JavaScript**.
 
 
-### Most Used Languages
+## Stats..
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratck86&show_icons=true&locale=en&layout=compact" alt="Murat Can Kurt"/>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanKzltprk&layout=compact&theme=dark)
+## Communication
+<a href="https://www.linkedin.com/in/murat-can-kurt/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Murat Can Kurt" height="20" width="25" />
 
----
-
-### Connect with me
 
 
 
