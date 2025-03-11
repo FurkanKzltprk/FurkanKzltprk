@@ -2,10 +2,9 @@
 
 - 🌟 I’m **Furkan**, a **Computer Engineering** student at **Fırat University** (2nd year).
 - 🌱 Currently learning **ASP.NET**, **HTML**, **CSS**, **JavaScript**, and improving my **Full Stack Development** skills.
-- 🛠️ Passionate about **C#**, **Java**, and **JavaScript**.
-- 🧑‍💻 Looking to collaborate on **Full Stack projects** and **open-source contributions**.
+- 🛠️  **C#**, **Java**, and **JavaScript**.
 - 👥 How to reach me: [LinkedIn](https://www.linkedin.com/in/furkan-k%C4%B1z%C4%B1ltoprak-a994121a7)
-- ⚡ See you out there! 😎
+
 
 ---
 
