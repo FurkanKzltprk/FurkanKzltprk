@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌟 I’m **Furkan**, a **Computer Engineering** student at **Fırat University** (2nd year).
+- 🌟 I’m **Furkan**, a **Computer Engineering** student at **Fırat University** (3rd year).
 - 🌱 Currently learning **ASP.NET**, **HTML**, **CSS**, **JavaScript**, and improving my **Full Stack Development** skills.
 - 🛠️ Passionate about **C#**, **Java**, and **JavaScript**.
 - 🌐 Check out my **[personal website](https://furkankzltprk.github.io/)** to see more about my work and projects.
