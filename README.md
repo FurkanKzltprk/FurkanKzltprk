@@ -29,9 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanKzltprk&show_icons=true&locale=en&layout=compact" alt="Furkan Kızıltoprak"/>
 </p>
 
----
 
-### 🐍 Snake Game
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanKzltprk/FurkanKzltprk/output/github-contribution-grid-snake-dark.svg">
