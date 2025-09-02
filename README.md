@@ -17,22 +17,23 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      
-      ### 🌐 Communication  
+    <td align="center">
+
+      <h3>🌐 Communication</h3>
       <a href="https://www.linkedin.com/in/furkan-k%C4%B1z%C4%B1ltoprak-a994121a7/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
       </a>
 
     </td>
-    <td align="center" width="50%">
-      
-      ### 📊 Stats  
+    <td align="center">
+
+      <h3>📊 Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanKzltprk&show_icons=true&locale=en&layout=compact" alt="Furkan Kızıltoprak"/>
 
     </td>
   </tr>
 </table>
+
 
 ---
 
