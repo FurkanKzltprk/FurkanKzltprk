@@ -16,13 +16,22 @@
 ---
 
 ### 📊 Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanKzltprk&show_icons=true&locale=en&layout=compact" alt="Furkan Kızıltoprak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanKzltprk&show_icons=true&locale=en&layout=compact" alt="Furkan Kızıltoprak"/>
+</p>
 
 ---
 
 ### 🌐 Communication
-<a href="https://www.linkedin.com/in/furkan-k%C4%B1z%C4%B1ltoprak-a994121a7/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Furkan Kızıltoprak" height="20" width="25" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/furkan-k%C4%B1z%C4%B1ltoprak-a994121a7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+</p>
 
-![snake gif](https://github.com/FurkanKzltprk/FurkanKzltprk/blob/output/github-contribution-grid-snake.gif)
+---
+
+### 🐍 Snake Game
+<p align="center">
+  <img src="https://github.com/FurkanKzltprk/FurkanKzltprk/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
