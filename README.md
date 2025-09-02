@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
 
       <h3>🌐 Communication</h3>
       <a href="https://www.linkedin.com/in/furkan-k%C4%B1z%C4%B1ltoprak-a994121a7/" target="_blank">
@@ -25,7 +25,7 @@
       </a>
 
     </td>
-    <td align="center">
+    <td align="center" width="50%">
 
       <h3>📊 Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanKzltprk&show_icons=true&locale=en&layout=compact" alt="Furkan Kızıltoprak"/>
@@ -33,7 +33,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
