@@ -35,3 +35,4 @@
 <p align="center">
   <img src="https://github.com/FurkanKzltprk/FurkanKzltprk/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+![snake gif](https://github.com/FurkanKzltprk/FurkanKzltprk/blob/output/github-contribution-grid-snake-dark.svg)
