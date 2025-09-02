@@ -24,3 +24,5 @@
 <a href="https://www.linkedin.com/in/furkan-k%C4%B1z%C4%B1ltoprak-a994121a7/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Furkan Kızıltoprak" height="20" width="25" />
 </a>
+
+![snake gif](https://github.com/FurkanKzltprk/FurkanKzltprk/blob/output/github-contribution-grid-snake.gif)
