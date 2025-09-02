@@ -32,7 +32,8 @@
 ---
 
 ### 🐍 Snake Game
-<p align="center">
-  <img src="https://github.com/FurkanKzltprk/FurkanKzltprk/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-![snake gif](https://github.com/FurkanKzltprk/FurkanKzltprk/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
