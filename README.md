@@ -19,7 +19,6 @@
 | 🌐 **Communication** | 📊 **GitHub Statistics** |
 |:---:|:---:|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-k%C4%B1z%C4%B1ltoprak-a994121a7/) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=FurkanKzltprk&show_icons=true&locale=en&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117) |
-| Professional networking platform | Programming language distribution |
 
 </div>
 
