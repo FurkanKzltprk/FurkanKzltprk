@@ -4,7 +4,7 @@
 - 🛠️ I enjoy building scalable, clean, and secure applications, and I'm particularly interested in how systems communicate — from network protocols to RESTful APIs.  
 - 🎯 My goal is to combine my **networking** and **security knowledge** with software engineering to develop **reliable, efficient, and safe applications** for real-world use.  
 - 🌐 Check out my **[personal website](https://furkankzltprk.github.io/)** to learn more about my projects and journey!
-- 🌐 Check out my **<a href="https://furkankzltprk.github.io/" target="_blank">personal website</a>** to learn more about my projects and journey!
+
 ---
 
 ### 🔧 Tech Interests
