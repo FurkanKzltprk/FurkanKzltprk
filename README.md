@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌟 I'm **Furkan**, a 3rd year **Computer Engineering** student at **Fırat University**.  
+- 🌟 I'm **Furkan**, a 4th year **Computer Engineering** student at **Fırat University**.  
 - 🌱 I focus on **software development**, mainly **C# .NET** and **API design**, while also exploring **networking** and **cybersecurity**.  
 - 🛠️ I enjoy building scalable, clean, and secure applications, and I'm particularly interested in how systems communicate — from network protocols to RESTful APIs.  
 - 🎯 My goal is to combine my **networking** and **security knowledge** with software engineering to develop **reliable, efficient, and safe applications** for real-world use.  
